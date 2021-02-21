@@ -1,4 +1,3 @@
-# reading-notes
 # ` What is a Growth Mindset ? ` 
 ![Growth Mindset](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/growth-mindset.png)
 ## A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
@@ -21,5 +20,12 @@
 
 ### 5. Success of others :handshake:
 
-## Finally, i would to say ~~grow not just at work~~ , grow at work and outside work too.
+## Personally, i would to share 3 reminders to myself of *how to keep myself in a growth mindset*:
+- [x] When i'm not good at doing this , i try it again and again until i do it perfectly :+1:
+- [x] I don't give up never :v:
+- [x] Maybe this is too hard, but not impossible :skull_and_crossbones:
+
+## Finally, i would to say: ~~grow not just at work~~ , grow at work and outside work too.
+
+
 

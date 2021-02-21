@@ -38,9 +38,7 @@ _And here's an overview of Markdown syntax that you can use anywhere on GitHub.c
 
 
 8. To order your list, precede each line with a number.
-  1. James Madison
-  2. John Quincy Adams
-  3. To order your list, precede each line with a number.
+
   1. James Madison
   2. John Quincy Adams
   3. James Monroe

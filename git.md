@@ -56,7 +56,10 @@ Files in Git can reside in three main states: committed, modified and staged.
 Data is securely stored in a local database
 
 *Modified*
+
 File has been changed but not committed to the database
+
+
 
 And finally, By running the git remote command, you can view the short names, such as “origin,” of all specified remote handles.
 

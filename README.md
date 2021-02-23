@@ -20,6 +20,21 @@
 
 ### 5. Success of others :handshake:
 
+
+## Table of Contents: 
+[What is a Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/README.md)
+
+[Git](https://github.com/majida-hatamleh/reading-notes/blob/main/git.md)
+
+[GitHub](https://github.com/majida-hatamleh/reading-notes/blob/main/github.md)
+
+[A-C-P Cycle](https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md)
+
+[GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)
+
+[MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md)
+
+
 ## Personally, i would to share 3 reminders to myself of *how to keep myself in a growth mindset*:
 - [x] When i'm not good at doing this , i try it again and again until i do it perfectly :+1:
 - [x] I don't give up never :v:

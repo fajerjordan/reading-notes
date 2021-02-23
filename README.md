@@ -20,21 +20,6 @@
 
 ### 5. Success of others :handshake:
 
-
-## Table of Contents: 
-[What is a Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/README.md)
-
-[Git](https://github.com/majida-hatamleh/reading-notes/blob/main/git.md)
-
-[GitHub](https://github.com/majida-hatamleh/reading-notes/blob/main/github.md)
-
-[A-C-P Cycle](https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md)
-
-[GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)
-
-[MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md)
-
-
 ## Personally, i would to share 3 reminders to myself of *how to keep myself in a growth mindset*:
 - [x] When i'm not good at doing this , i try it again and again until i do it perfectly :+1:
 - [x] I don't give up never :v:
@@ -50,5 +35,17 @@ Majeda N Hatamleh, 35 years old,  I have a BCs in MIS and work as digital market
 Now I'm a student at LTUC -Abdul Aziz al Ghurair School of Advanced Computing (ASAC), I choose to participate in a software development course because I think that the programming language it's an important thing at this time.  
 This is my [GitHub](https://github.com/majida-hatamleh) Account, where am I share my project in this course :slightly_smiling_face:
 
+## Table of Contents: 
+[What is a Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/README.md)
+
+[Git](https://github.com/majida-hatamleh/reading-notes/blob/main/git.md)
+
+[GitHub](https://github.com/majida-hatamleh/reading-notes/blob/main/github.md)
+
+[A-C-P Cycle](https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md)
+
+[GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)
+
+[MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md)
 
 

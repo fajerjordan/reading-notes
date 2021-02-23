@@ -1,4 +1,6 @@
-# add, commit, push cycle on on GitHub
+# A-C-P Cycle (Add, commit, push) on on GitHub
+
+
 ## add files
 * You will use the add and commit functions to add and commit changes that you make to git.
 

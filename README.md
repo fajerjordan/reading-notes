@@ -37,6 +37,11 @@ This is my [GitHub](https://github.com/majida-hatamleh) Account, where am I shar
 
 ## Table of Contents:
 
+Read Notes | links
+------------ | -------------
+1 | 2 
+[What is a Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/README.md)| | [MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md)
+
 Lab/Read        | Link     
  ------------- |:-------------:
 | 1    | [What is a Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/README.md)|

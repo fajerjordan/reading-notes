@@ -37,23 +37,19 @@ This is my [GitHub](https://github.com/majida-hatamleh) Account, where am I shar
 
 ## Table of Contents:
 
-Read Notes | links
------------- | -------------
-1 | 2 
-[What is a Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/README.md)| | [MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md)
 
-Lab/Read        | Link     
+Lab/Read       | Link     
  ------------- |:-------------:
-| 1    | [What is a Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/README.md)|
-| 2    | [MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md)|  
-| 3    | [A-C-P Cycle](https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md)
-| 4    | [Git](https://github.com/majida-hatamleh/reading-notes/blob/main/git.md)|
-| 5    | [GitHub](https://github.com/majida-hatamleh/reading-notes/blob/main/github.md)| 
-| 6    | [GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)| 
-| 7    | [HTML ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML5_Layout_and_Extra_Markup)|
-| 8    | [ CSS ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML_and_CSS)| 
-| 9    | [Computer Architecture and Logic](https://github.com/majida-hatamleh/reading-notes/blob/main/How_Computers_Work)|
-| 10   | [JavaScript ](https://github.com/majida-hatamleh/reading-notes/blob/main/java_script)|
+1    | [What is a Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/README.md)
+2    | [MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md) 
+3    | [A-C-P Cycle](https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md)
+4    | [Git](https://github.com/majida-hatamleh/reading-notes/blob/main/git.md)
+5    | [GitHub](https://github.com/majida-hatamleh/reading-notes/blob/main/github.md)
+6    | [GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)
+7    | [HTML ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML5_Layout_and_Extra_Markup)|
+8    | [ CSS ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML_and_CSS)
+9    | [Computer Architecture and Logic](https://github.com/majida-hatamleh/reading-notes/blob/main/How_Computers_Work)
+10   | [JavaScript ](https://github.com/majida-hatamleh/reading-notes/blob/main/java_script)
 
 
 

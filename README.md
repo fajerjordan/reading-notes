@@ -36,16 +36,29 @@ Now I'm a student at LTUC -Abdul Aziz al Ghurair School of Advanced Computing (A
 This is my [GitHub](https://github.com/majida-hatamleh) Account, where am I share my project in this course :slightly_smiling_face:
 
 ## Table of Contents: 
-[What is a Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/README.md)
+| Lab/Read        | Link       |
+| ------------- |:-------------:|
+| 1    | [What is a Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/README.md)|
+| 2    | [MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md)|  
+| 3    | [A-C-P Cycle](https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md)
+| 4    | [Git](https://github.com/majida-hatamleh/reading-notes/blob/main/git.md)|
+| 5    | [GitHub](https://github.com/majida-hatamleh/reading-notes/blob/main/github.md)| 
+| 6    | [GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)| 
+| 7    | [HTML ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML5_Layout_and_Extra_Markup)|
+| 8    | [ CSS ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML_and_CSS)| 
+| 9    | [How Computers Work](https://github.com/majida-hatamleh/reading-notes/blob/main/How_Computers_Work)|
+| 10   | [JavaScript ](https://github.com/majida-hatamleh/reading-notes/blob/main/java_script)|
 
-[Git](https://github.com/majida-hatamleh/reading-notes/blob/main/git.md)
 
-[GitHub](https://github.com/majida-hatamleh/reading-notes/blob/main/github.md)
 
-[A-C-P Cycle](https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md)
 
-[GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)
 
-[MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md)
+
+
+
+
+
+
+
 
 

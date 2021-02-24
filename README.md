@@ -9,7 +9,7 @@ This is my [GitHub](https://github.com/majida-hatamleh) Account, where am I shar
 
 Lab/Read       | Link     
  ------------- |:-------------:
-1    | [Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/README.md)
+1    | [Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/Growth_Mindset)
 2    | [MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md) 
 3    | [A-C-P Cycle](https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md)
 4    | [Git](https://github.com/majida-hatamleh/reading-notes/blob/main/git.md)

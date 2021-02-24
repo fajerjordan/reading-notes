@@ -35,9 +35,10 @@ Majeda N Hatamleh, 35 years old,  I have a BCs in MIS and work as digital market
 Now I'm a student at LTUC -Abdul Aziz al Ghurair School of Advanced Computing (ASAC), I choose to participate in a software development course because I think that the programming language it's an important thing at this time.  
 This is my [GitHub](https://github.com/majida-hatamleh) Account, where am I share my project in this course :slightly_smiling_face:
 
-## Table of Contents: 
-| Lab/Read        | Link       |
-| ------------- |:-------------:|
+## Table of Contents:
+
+Lab/Read        | Link     
+ ------------- |:-------------:
 | 1    | [What is a Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/README.md)|
 | 2    | [MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md)|  
 | 3    | [A-C-P Cycle](https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md)
@@ -46,7 +47,7 @@ This is my [GitHub](https://github.com/majida-hatamleh) Account, where am I shar
 | 6    | [GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)| 
 | 7    | [HTML ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML5_Layout_and_Extra_Markup)|
 | 8    | [ CSS ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML_and_CSS)| 
-| 9    | [How Computers Work](https://github.com/majida-hatamleh/reading-notes/blob/main/How_Computers_Work)|
+| 9    | [Computer Architecture and Logic](https://github.com/majida-hatamleh/reading-notes/blob/main/How_Computers_Work)|
 | 10   | [JavaScript ](https://github.com/majida-hatamleh/reading-notes/blob/main/java_script)|
 
 

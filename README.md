@@ -1,12 +1,10 @@
-
 #Editor in lines: 
 ##Majeda N Hatamleh, 35 years old,  I have a BCs in MIS and work as digital marketing & branding officer for one year in a leading company in cybersecurity and information technology. 
 ##Now I'm a student at LTUC -Abdul Aziz al Ghurair School of Advanced Computing (ASAC), I choose to participate in a software development course because I think that the programming language it's an important thing at this time.  
 This is my [GitHub](https://github.com/majida-hatamleh) Account, where am I share my project in this course :slightly_smiling_face:
 
-###****************************************************************************************************************
-## Table of Contents:
 
+## Table of Contents:
 
 Read       | Links     
  ------------- |:-------------:

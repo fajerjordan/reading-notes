@@ -18,7 +18,7 @@ Read       | Link
 6    | [GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)
 7    | [HTML ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML5_Layout_and_Extra_Markup)|
 8    | [ CSS ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML_and_CSS)
-9    | [Computer Architecture and Logic](https://github.com/majida-hatamleh/reading-notes/blob/main/How_Computers_Work)
+9    | [Computer Architecture and Logic](https://github.com/majida-hatamleh/reading-notes/blob/main/computers)
 10   | [Dynamic web pages with JavaScript ](https://github.com/majida-hatamleh/reading-notes/blob/main/java_script)
 
 

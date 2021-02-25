@@ -12,13 +12,13 @@ Read       | Link
  ------------- |:-------------:
 1    | [Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/Growth_Mindset)
 2    | [MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md) 
-3    | [A-C-P Cycle](https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md)
+3    | [A-C-P Cycle](https://majida-hatamleh.github.io/reading-notes/acp)
 4    | [Git](https://github.com/majida-hatamleh/reading-notes/blob/main/git.md)
 5    | [GitHub](https://github.com/majida-hatamleh/reading-notes/blob/main/github.md)
 6    | [GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)
 7    | [HTML ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML5_Layout_and_Extra_Markup)|
 8    | [ CSS ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML_and_CSS)
-9    | [Computer Architecture and Logic](https://github.com/majida-hatamleh/reading-notes/blob/main/computers)
+9    | [Computer Architecture and Logic](https://majida-hatamleh.github.io/reading-notes/computers)
 10   | [Dynamic web pages with JavaScript ](https://github.com/majida-hatamleh/reading-notes/blob/main/java_script)
 
 

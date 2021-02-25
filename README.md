@@ -20,8 +20,8 @@ Read       | Link
 8    | [ CSS ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML_and_CSS)
 9    | [Computer Architecture and Logic](https://github.com/majida-hatamleh/reading-notes/blob/main/computers)
 10   | [Dynamic web pages with JavaScript ](https://github.com/majida-hatamleh/reading-notes/blob/main/java_script)
-11    | [Computer Architecture and Logic](https://majida-hatamleh.github.io/reading-notes/computers)
-12   | [Dynamic web pages with JavaScript ](https://github.com/majida-hatamleh/reading-notes/blob/main/java_script)
+11    | [Read: 04 - Programming with JavaScript]()
+12   | [Read: 05 - Operators and Loops ]()
 
 
 

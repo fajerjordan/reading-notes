@@ -16,29 +16,26 @@
 
 Read       | Link     
  ------------- |:-------------:
- 
-1    | [Growth Mindset]( https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/growth-mindset)
+1    | [Growth Mindset](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/growth-mindset)
 2    | [MarkDown](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/) 
-3    | [A-C-P Cycle]( https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/acp)
-4    | [Git]( https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/git)
-5    | [GitHub]( https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/github)
-6    | [GitHub Pages]( https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/github_pages)
-7    | [HTML ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/)
-8    | [ CSS ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/)
+3    | [A-C-P Cycle](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/acp)
+4    | [Git](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/git)
+5    | [GitHub](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/github)
+6    | [GitHub Pages](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/github_pages)
+7    | [HTML ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/html-layout)
+8    | [ CSS ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/html-an-dcss)
 9    | [Computer Architecture and Logic](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/computer-architecture)
-10   | [Dynamic web pages with JavaScript ]( https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/)
-11   | [Read: 04 - Programming with JavaScript]( https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/)
-12   | [Read: 05 - Operators and Loops ]( https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/)
+10   | [Dynamic web pages with JavaScript ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/java-script)
+11   | [Read: 04 - Programming with JavaScript](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/programming)
+12   | [Read: 05 - Operators and Loops ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/operators)
 
 
  ### :two: Code 201: Reading Notes
  
 Read       | Link     
  ------------- |:-------------:
- 
-  Read: 01| [Introductory HTML and JavaScript](https://github.com/majida-hatamleh/reading-notes/blob/main/)
+  Read: 01| [Introductory HTML and JavaScript](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-01)
   
- https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/git
  
 
 

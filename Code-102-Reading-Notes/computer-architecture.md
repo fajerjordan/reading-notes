@@ -26,3 +26,5 @@ Circuits enables computers to do more complex operations than they could accompl
 #CPU, Memory, Input & Output
 ## Computers require input hardware, processing hardware and output hardware. The hardware that defines a computer is the CPU and memory. Without these a computer could not function.
  ## Memory - stores program operations and data while a program is being executed. There are several types of memory, including: registers, cache, RAM and virtual memory.
+ 
+#################################################################################################################################################################################################################### [Homepage](https://majida-hatamleh.github.io/reading-notes.html)

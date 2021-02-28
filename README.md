@@ -16,26 +16,10 @@ Read       | Link
 4    | [Git](https://github.com/majida-hatamleh/reading-notes/blob/main/git.md)
 5    | [GitHub](https://github.com/majida-hatamleh/reading-notes/blob/main/github.md)
 6    | [GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)
-7    | [HTML ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML5_Layout_and_Extra_Markup)|
+7    | [HTML ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML5_Layout_and_Extra_Markup)
 8    | [ CSS ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML_and_CSS)
 9    | [Computer Architecture and Logic](https://github.com/majida-hatamleh/reading-notes/blob/main/computers)
 10   | [Dynamic web pages with JavaScript ](https://github.com/majida-hatamleh/reading-notes/blob/main/java_script)
-11    | [Read: 04 - Programming with JavaScript](https://github.com/majida-hatamleh/reading-notes/blob/main/programming)
+11   | [Read: 04 - Programming with JavaScript](https://github.com/majida-hatamleh/reading-notes/blob/main/programming)
 12   | [Read: 05 - Operators and Loops ](https://github.com/majida-hatamleh/reading-notes/blob/main/operators.md)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md

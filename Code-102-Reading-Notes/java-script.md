@@ -12,3 +12,6 @@ The CSS enhances the HTML page with rules that state how the HTML content is pre
 ## This is where we can change how the page behaves, adding interact ivity. We will aim to keep as much of our JavaScript as possible in separate files.
 
 ## Keeping it separate means that the page still works if the user cannot load or run the JavaScript. You can also reuse the code on severa l pages (making the site faster to load and easier to maintain).
+
+
+#################################################################################################################################################################################################################### [Homepage](https://majida-hatamleh.github.io/reading-notes.html)

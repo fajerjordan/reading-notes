@@ -13,3 +13,7 @@ contains two parts: a selector and a declaration.
 with commas.
 
 ### Declarations indicate how the elements referred to in the selector should be styled. Declarations are split into two parts (a property and a value), and are separated by a colon.
+
+
+
+#################################################################################################################################################################################################################### [Homepage](https://majida-hatamleh.github.io/reading-notes.html)

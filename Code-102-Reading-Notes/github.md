@@ -32,3 +32,5 @@
 # GitHub is so user-friendly, though, that some people even use GitHub to manage other types of projects – like writing books.
 
 # Additionally, anyone can sign up and host a public code repository for free, which makes GitHub especially popular with open-source projects.
+
+#################################################################################################################################################################################################################### [Homepage](https://majida-hatamleh.github.io/reading-notes.html)

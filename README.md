@@ -1,41 +1,43 @@
-#Editor in lines: 
+# LTUC -Abdul Aziz al Ghurair School of Advanced Computing (ASAC)
+## Software Development Camp
 
-##Majeda N Hatamleh, 35 years old,  I have a BCs in MIS and work as digital marketing & branding officer for one year in a leading company in cybersecurity and information technology. 
+### **Hello!** My name is **Majida Hatamleh**, and many know me as *Fajer*. I am originally from Jordan and live in Irbid. I finished my Bachelor's degree in Management Information systems from Al Balqa Applied University in 2014 and my master's degree in Electronic Business Administration from Jadara University in 2017.
 
-##Now I'm a student at LTUC -Abdul Aziz al Ghurair School of Advanced Computing (ASAC), I choose to participate in a software development course because I think that the programming language it's an important thing at this time.  
-This is my [GitHub](https://github.com/majida-hatamleh) Account, where am I share my project in this course.
+### In the same year, I’ve had the opportunity to work as a **digital marketing and branding officer** in a pioneer company in Technology Consulting and  Cyber Security fields for a year.
+
+### Recently, I participate in a __Software Development Camp__ with __Abdul Aziz Al Ghurair School of Advanced Computing (ASAC)__, I'm very happy to learn with wonderful people :purple_heart:
+  
+### In this simple web site, I will summarize all topic that we learn in this course and save it as reading notes to go back to easily when I need it, and this is my [GitHub](https://github.com/majida-hatamleh) Account,wherever I will share it. let's go : 
 
 
 ## Table of Contents:
 
+ ### Code 102: Reading Notes
+
 Read       | Link     
  ------------- |:-------------:
-1    | [Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/Growth_Mindset)
-2    | [MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md) 
-3    | [A-C-P Cycle](https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md)
-4    | [Git](https://github.com/majida-hatamleh/reading-notes/blob/main/git.md)
-5    | [GitHub](https://github.com/majida-hatamleh/reading-notes/blob/main/github.md)
-6    | [GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)
-7    | [HTML ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML5_Layout_and_Extra_Markup)|
-8    | [ CSS ](https://github.com/majida-hatamleh/reading-notes/blob/main/HTML_and_CSS)
-9    | [Computer Architecture and Logic](https://github.com/majida-hatamleh/reading-notes/blob/main/computers)
-10   | [Dynamic web pages with JavaScript ](https://github.com/majida-hatamleh/reading-notes/blob/main/java_script)
-11    | [Read: 04 - Programming with JavaScript](https://github.com/majida-hatamleh/reading-notes/blob/main/programming)
-12   | [Read: 05 - Operators and Loops ](https://github.com/majida-hatamleh/reading-notes/blob/main/operators.md)
+1    | [Growth Mindset](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/growth-mindset)
+2    | [MarkDown](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/markdown) 
+3    | [A-C-P Cycle](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/acp)
+4    | [Git](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/git)
+5    | [GitHub](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/github)
+6    | [GitHub Pages](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/github_pages)
+7    | [HTML ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/html-layout)
+8    | [ CSS ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/html-and-css.md)
+9    | [Computer Architecture and Logic](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/computer-architecture)
+10   | [Dynamic web pages with JavaScript ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/java-script)
+11   | [Programming with JavaScript](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/programming)
+12   | [Operators and Loops ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/operators)
+
+
+ ### Code 201: Reading Notes
+ 
+Read       | Link     
+ ------------- |:-------------:
+ 1| [Introductory HTML and JavaScript](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-01)
+  
+ ##
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md

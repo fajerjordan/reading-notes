@@ -65,3 +65,5 @@ _And here's an overview of Markdown syntax that you can use anywhere on GitHub.c
   
 14. You can add emoji to your writing by typing :EMOJICODE:.
   @octocat :+1: This PR looks great - it's ready to merge! :shipit:
+  
+  ____________________________________________________________________________________________________[Back to Homepage](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes)

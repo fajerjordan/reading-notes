@@ -18,7 +18,7 @@ Read       | Link
  ------------- |:-------------:
 1    | [Growth Mindset](https://github.com/majida-hatamleh/reading-notes/blob/main/Growth_Mindset)
 2    | [MarkDown](https://github.com/majida-hatamleh/reading-notes/blob/main/markdown.md) 
-3    | [A-C-P Cycle](https://github.com/majida-hatamleh/reading-notes/blob/main/acp.md)
+3    | [A-C-P Cycle]( https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/acp)
 4    | [Git](https://github.com/majida-hatamleh/reading-notes/blob/main/git.md)
 5    | [GitHub](https://github.com/majida-hatamleh/reading-notes/blob/main/github.md)
 6    | [GitHub Pages](https://github.com/majida-hatamleh/reading-notes/blob/main/github_pages.md)
@@ -33,7 +33,9 @@ Read       | Link
  ### :two: Code 201: Reading Notes
 Read       | Link     
  ------------- |:-------------:
-  Read: 01| - [Introductory HTML and JavaScript](https://github.com/majida-hatamleh/reading-notes/blob/main/Growth_Mindset)
+  Read: 01| [Introductory HTML and JavaScript](https://github.com/majida-hatamleh/reading-notes/blob/main/)
+  
+ https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/acp
  
 
 

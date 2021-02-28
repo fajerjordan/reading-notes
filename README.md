@@ -23,7 +23,7 @@ Read       | Link
 5    | [GitHub](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/github)
 6    | [GitHub Pages](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/github_pages)
 7    | [HTML ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/html-layout)
-8    | [ CSS ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/html-an-dcss)
+8    | [ CSS ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/html-and-css.md)
 9    | [Computer Architecture and Logic](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/computer-architecture)
 10   | [Dynamic web pages with JavaScript ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/java-script)
 11   | [Programming with JavaScript](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/programming)

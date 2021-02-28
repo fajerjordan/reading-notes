@@ -17,7 +17,7 @@
 Read       | Link     
  ------------- |:-------------:
 1    | [Growth Mindset](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/growth-mindset)
-2    | [MarkDown](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/) 
+2    | [MarkDown](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/markdown) 
 3    | [A-C-P Cycle](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/acp)
 4    | [Git](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/git)
 5    | [GitHub](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/github)

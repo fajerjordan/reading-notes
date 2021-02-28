@@ -12,7 +12,7 @@
 
 ## Table of Contents:
 
-:one: ### Code 102: Reading Notes
+ ### :one: Code 102: Reading Notes
 
 Read       | Link     
  ------------- |:-------------:
@@ -30,10 +30,10 @@ Read       | Link
 12   | [Read: 05 - Operators and Loops ](https://github.com/majida-hatamleh/reading-notes/blob/main/operators.md)
 
 
-:two: ### Code 201: Reading Notes
+ ### :two: Code 201: Reading Notes
 Read       | Link     
  ------------- |:-------------:
-1    |  Read: 01 - [Introductory HTML and JavaScript](https://github.com/majida-hatamleh/reading-notes/blob/main/Growth_Mindset)
+  Read: 01| - [Introductory HTML and JavaScript](https://github.com/majida-hatamleh/reading-notes/blob/main/Growth_Mindset)
  
 
 

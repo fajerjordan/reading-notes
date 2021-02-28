@@ -47,3 +47,7 @@ to continue with the current
 iteration, and then check the
 condition again. (If it is true, the
 code runs again.)
+
+
+
+#################################################################################################################################################################################################################### [Homepage](https://majida-hatamleh.github.io/reading-notes.html)

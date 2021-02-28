@@ -7,12 +7,12 @@
 
 ### Recently, I participate in a __Software Development Camp__ with __Abdul Aziz Al Ghurair School of Advanced Computing (ASAC)__, I'm very happy to learn with wonderful people :purple_heart:
   
-### In this simple web site, I will summarize all topic that we learn in this course and save it as reading notes to go back to easily when I need it, and this is my [GitHub](https://github.com/majida-hatamleh) Account,wherever I will share it. let's go :point_down: 
+### In this simple web site, I will summarize all topic that we learn in this course and save it as reading notes to go back to easily when I need it, and this is my [GitHub](https://github.com/majida-hatamleh) Account,wherever I will share it. let's go : 
 
 
 ## Table of Contents:
 
- ### :one: Code 102: Reading Notes
+ ### Code 102: Reading Notes
 
 Read       | Link     
  ------------- |:-------------:
@@ -26,15 +26,15 @@ Read       | Link
 8    | [ CSS ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/html-an-dcss)
 9    | [Computer Architecture and Logic](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/computer-architecture)
 10   | [Dynamic web pages with JavaScript ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/java-script)
-11   | [Read: 04 - Programming with JavaScript](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/programming)
-12   | [Read: 05 - Operators and Loops ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/operators)
+11   | [Programming with JavaScript](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/programming)
+12   | [Operators and Loops ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/operators)
 
 
- ### :two: Code 201: Reading Notes
+ ### Code 201: Reading Notes
  
 Read       | Link     
  ------------- |:-------------:
-  Read: 01| [Introductory HTML and JavaScript](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-01)
+ 1| [Introductory HTML and JavaScript](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-01)
   
  
 

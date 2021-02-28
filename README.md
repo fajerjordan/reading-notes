@@ -36,11 +36,7 @@ Read       | Link
  ------------- |:-------------:
  1| [Introductory HTML and JavaScript](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-01)
   
- 
-
-
-
-
+ ##
 
 
 

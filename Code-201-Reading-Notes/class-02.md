@@ -114,12 +114,5 @@ height Specifies the height of the image (optional)
  ## : Choosing alt text
 Alt-text is used by screen readers for visually impaired users and by search engines. It's therefore important to
 write good alt-text for your images.
-The text should look correct even if you replace the image with its alt attribute. For example:
-<!-- Incorrect -->
-<img src="anonymous.png" alt="Anonymous user avatar"/> An anonymous user wrote:
-<blockquote>Lorem ipsum dolor sed.</blockquote>
-<a href="https://google.com/"><img src="edit.png" alt="Edit icon"/></a> /
-<a href="https://google.com/"><img src="delete.png" alt="Delete icon"/></a>
-
-
+The text should look correct even if you replace the image with its alt attribute.
 

@@ -1,6 +1,7 @@
 
-# HTML Layout Elements
+## HTML Layout Elements
 ### HTML has several semantic elements that define the different parts of a web page:
+
   - <header> - Defines a header for a document or a section
   - <nav> - Defines a set of navigation links
   - <section> - Defines a section in a document
@@ -11,14 +12,14 @@
   - <summary> - Defines a heading for the <details> element
 
   
-  ## What are Semantic Elements?
+## What are Semantic Elements?
 ### A semantic element clearly describes its meaning to both the browser and the developer.
 
 ### Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
 
 ### Examples of semantic elements: <form>, <table>, and <article> - Clearly defines its content.
 
-## Semantic Elements in HTML
+### Semantic Elements in HTML
 
 ### Many web sites contain HTML code like: <div id="nav"> <div class="header"> <div id="footer"> to indicate navigation, header, and footer.
 
@@ -37,7 +38,7 @@
   <summary>
   <time>  
 
-# HTML Layout Techniques
+## HTML Layout Techniques
 ### There are four different techniques to create multicolumn layouts. Each technique has its pros and cons:
 
   - CSS framework

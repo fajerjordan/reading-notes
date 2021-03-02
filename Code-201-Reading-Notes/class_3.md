@@ -4,14 +4,14 @@
 
 ### Ordered HTML List
 
-An ordered list starts with the <ol> tag. Each list item starts with the <li> tag.
+  An ordered list starts with the <ol> tag. Each list item starts with the <li> tag.
 
-The list items will be marked with numbers by default:
-<ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
-</ol>
+  The list items will be marked with numbers by default:
+  <ol>
+    <li>Coffee</li>
+    <li>Tea</li>
+    <li>Milk</li>
+  </ol>
 
 
 ### Ordered HTML List - The Type Attribute

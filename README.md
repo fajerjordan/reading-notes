@@ -37,7 +37,7 @@ Read       | Link
  1|  [Introductory HTML and JavaScript](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-01)
  2 | [HTML, CSS, and JavaScript Instructions](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-02)
  3 | [HTML Lists, CSS Boxes, JS Control Flow](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_03)
- 4 | [HTML Links, CSS Layout, JS Functions](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_03)
+ 4 | [HTML Links, CSS Layout, JS Functions](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_04)
 
 
 

@@ -70,7 +70,7 @@ Animation, in this case, refers to any change or movement in the image.
 It doesn’t necessarily have to have frame rates like an animated video, but essentially a part or the entire image changes with time.
 Of these 3 formats, only GIF supports animation. This capability makes GIF format suitable for delivering engaging ads and banners. 
 Of late, with the advent of companies Tumblr, 9Gag, Giphy etc. the use of GIF format for memes has picked up.
-![Omemes :cat2:](https://giphy.com/gifs/silicon-valley-l0K4jMNck0La1a7aU?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F)
+![Omemes](https://giphy.com/gifs/silicon-valley-l0K4jMNck0La1a7aU?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F)
 
 
 

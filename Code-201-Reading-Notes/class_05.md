@@ -20,7 +20,7 @@ This noticeable reduction in quality or distortion of the image is called ***com
 * JPEG is a lossy compression specification that takes advantage of human perception. 
 It can achieve compression ratios of 1:10 without any perceivable difference in quality. 
 
-[JPEG Image](https://miro.medium.com/max/1050/1*HnECuWHjR2g4V7RAGmdmrg.jpeg)
+![JPEG Image](https://miro.medium.com/max/1050/1*HnECuWHjR2g4V7RAGmdmrg.jpeg)
 JPEG image of Taj Mahal which is indicative of a natural scene. Size of this image is 127KB. 
 Even though further compression is still possible for this image, it still is the lightest of the three formats. 
 Source: http://voyage.gentside.com/taj-mahal/wallpaper
@@ -29,7 +29,7 @@ Source: http://voyage.gentside.com/taj-mahal/wallpaper
 No data is lost during compression and no compression artefacts are introduced in the image. 
 For this reason, a PNG image would retain higher quality than an image than JPEG and would look a lot sharper, it would also occupy more space on the disk.
 
-[PNG Image](https://miro.medium.com/max/1050/1*sD2tU56l8y1jF4BPQdWNYA.png)
+![PNG Image](https://miro.medium.com/max/1050/1*sD2tU56l8y1jF4BPQdWNYA.png)
 PNG image of Taj Mahal which is indicative of a natural scene. Size of this image is 714KB. 
 Though it looks identical to the JPEG image above, it is the largest among the three formats indicating the unsuitability of PNG for natural images. 
 Source: http://voyage.gentside.com/taj-mahal/wallpaper
@@ -39,7 +39,7 @@ It was favoured over PNG for simple graphics in websites in its early days becau
 Given that PNG is now supported across all major devices and that PNG compression is about 5–25% better than GIF compression, 
 GIF images are now mainly used only if the image contains animations.
 
-[GIF](https://miro.medium.com/max/1050/1*RC1_APSn_bNGP4dYpR9MJw.gif)
+![GIF](https://miro.medium.com/max/1050/1*RC1_APSn_bNGP4dYpR9MJw.gif)
 GIF image of Taj Mahal. If you look closely, there is a lot of noise around the right most tree top and the sky. 
 The size of this image is 230KB. Source: http://voyage.gentside.com/taj-mahal/wallpaper
 
@@ -70,7 +70,7 @@ Animation, in this case, refers to any change or movement in the image.
 It doesn’t necessarily have to have frame rates like an animated video, but essentially a part or the entire image changes with time.
 Of these 3 formats, only GIF supports animation. This capability makes GIF format suitable for delivering engaging ads and banners. 
 Of late, with the advent of companies Tumblr, 9Gag, Giphy etc. the use of GIF format for memes has picked up.
-[Omemes :cat2:](https://giphy.com/gifs/silicon-valley-l0K4jMNck0La1a7aU?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F)
+![Omemes :cat2:](https://giphy.com/gifs/silicon-valley-l0K4jMNck0La1a7aU?utm_source=iframe&utm_medium=embed&utm_campaign=Embeds&utm_term=https%3A%2F%2Fcdn.embedly.com%2F)
 
 
 

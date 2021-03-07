@@ -1,9 +1,9 @@
-# read: 06 - JS Object Literals; The DOM
+# Read: 06 - JS Object Literals; The DOM
 
 ## JavaScript Object Literal
 A JavaScript object literal is a comma-separated list of name-value pairs wrapped in curly braces. Object literals encapsulate data, enclosing it in a tidy package. This minimizes the use of global variables which can cause problems when combining code.
 
-The following demonstrates an example object literal:
+- The following demonstrates an example object literal:
 
 var myObject = {
     sProp: 'some string value',
@@ -24,7 +24,7 @@ var Swapper = {
     }
 };
 
-#Object Literal Syntax
+## Object Literal Syntax
 Object literals are defined using the following syntax rules:
 
 A colon separates property name[1] from value.

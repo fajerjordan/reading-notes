@@ -42,6 +42,6 @@ Read       | Link
  5 | [ Images, Color, Text](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_05)
  6 | [JS Object Literals; The DOM](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_06)
  7 | [Readings : Object-Oriented Programming, HTML Tables](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_07)
-
+ 8 | [More CSS Layout](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_07)
 
 

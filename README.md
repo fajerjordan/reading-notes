@@ -30,13 +30,18 @@ Read       | Link
 12   | [Operators and Loops ](https://majida-hatamleh.github.io/reading-notes/Code-102-Reading-Notes/operators)
 
 
+
  ### Code 201: Reading Notes
  
 Read       | Link     
  ------------- |:-------------:
  1|  [Introductory HTML and JavaScript](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-01)
  2 | [HTML, CSS, and JavaScript Instructions](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-02)
- 3 | [HTML Lists, CSS Boxes, JS Control Flow](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_3)
+ 3 | [HTML Lists, CSS Boxes, JS Control Flow](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_03)
+ 4 | [HTML Links, CSS Layout, JS Functions](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_04)
+ 5 | [ Images, Color, Text](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_05)
+ 6 | [JS Object Literals; The DOM](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_06)
+ 7 | [Readings : Object-Oriented Programming, HTML Tables](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_07)
 
 
 

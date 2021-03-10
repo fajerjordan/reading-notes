@@ -33,7 +33,7 @@ Similar to submit buttons but they allow you to use an image.
 File upload
 Allows users to upload files (e.g. images) to a website.
 
-## hoW Forms Work:
+## How Forms Work:
 
 1- A user fills in a form and then presses a button to submit the information to the server.
 

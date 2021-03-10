@@ -46,17 +46,6 @@ Allows users to upload files (e.g. images) to a website.
 ## A form may have several form controls, each gathering different information. The server needs to know which piece of inputted data corresponds with which form element.
 
 
-## Form struCturE
-
-* <form>
-Form controls live inside a <form> element. This element should always carry the action attribute and will usually have a method and id attribute too.
-
-* action
-Every <form> element requires an action attribute. Its value is the URL for the page on the server that will receive the information in the form when it is submitted.
-* method
-Forms can be sent using one of two methods: get or post.  With the get method, the values from the form are added to  the end of the URL specified in the action attribute. 
-
-
 # THE EVENT OBJECT
 
 ## Events are actions or occurrences that happen in the system you are programming, which the system tells you about so you can respond to them in some way if desired. For example, if the user selects a button on a webpage, you might want to respond to that action by displaying an information box. In this article, we discuss some important concepts surrounding events, and look at how they work in browsers. This won't be an exhaustive study; just what you need to know at this stage.

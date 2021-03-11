@@ -44,5 +44,7 @@ Read       | Link
  7 | [Readings : Object-Oriented Programming, HTML Tables](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_07)
  8 | [More CSS Layout](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_08)
  9 | [Forms and JS Events](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_09)
+ 10 | [Forms and JS Events](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_10)
+
 
 

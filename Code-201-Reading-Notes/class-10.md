@@ -61,4 +61,4 @@ Dependencies are not clear, so fixing a coding error in one part of the program 
 History of debugging
 The use of the word bug as a synonym for error originated in engineering. The term's application to computing and the inspiration for using the word debugging as a synonym for troubleshooting has been attributed to Admiral Grace Hopper, a pioneer in computer programming, who was also known for her dry sense of humor. When an actual bug (a moth) got caught between electrical relays and caused a problem in the U.S. Navy's first computer, Admiral Hopper and her team "debugged" the computer and saved the moth. It now resides in the Smithsonian Museum.
 
-Photo of moth taped to log book.
+![Photo](https://cdn.ttgtmedia.com/rms/onlineimages/whatis-debugging_desktop.png)

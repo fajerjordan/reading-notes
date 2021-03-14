@@ -45,6 +45,7 @@ Read       | Link
  8 | [More CSS Layout](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_08)
  9 | [Forms and JS Events](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class_09)
  10 |[JS Debugging](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-10)
+ 11 |[Assorted Topics](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-11)
 
 
 

@@ -7,7 +7,7 @@
 ### A great way to get started with charts is with Chart.js, a JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the page. It’s a well documented plugin that makes using all kinds of bar charts, line charts, pie charts and more, incredibly easy.
 
 ### To see how to use chart.js we’re going to create a set of 3 graphs; one will show the number of buyers a fictional product has over the course of 6 months, this will be a line chart; the second will show which countries the customers come from, this will be the pie chart; finally we’ll use a bar chart to show profit over the period.
-
+```
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -18,8 +18,7 @@
     <body>
     </body>
 </html>
-
-
+```
 
 Drawing a line chart
 To draw a line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart. So add this to the body of our HTML page:
@@ -34,6 +33,7 @@ Next, we need to write a script that will retrieve the context of the canvas, so
 </script>
 
 (We can actually pass some options to the chart via the Line method, but we’re going to stick to the data for now to keep it simple.)
+```
 var buyerData = {
 	labels : ["January","February","March","April","May","June"],
 	datasets : [
@@ -46,8 +46,11 @@ var buyerData = {
 		}
 	]
 }
+```
+
 Inside the same script tags we need to create our data, in this instance it’s an object that contains labels for the base of our chart and datasets to describe the values on the chart. Add this immediately above the line that begins ‘var buyers=’:
 
+```
 var buyerData = {
 	labels : ["January","February","March","April","May","June"],
 	datasets : [
@@ -60,6 +63,7 @@ var buyerData = {
 		}
 	]
 }
+```
 
 If you test your file in a browser you’ll now see a cool animated line graph.
 

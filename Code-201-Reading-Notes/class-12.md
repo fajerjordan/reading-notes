@@ -21,6 +21,7 @@
 ```
 
 Drawing a line chart
+
 To draw a line chart, the first thing we need to do is create a canvas element in our HTML in which Chart.js can draw our chart. So add this to the body of our HTML page:
 ```
 <canvas id="buyers" width="600" height="400"></canvas>
@@ -68,13 +69,13 @@ var buyerData = {
 }
 ```
 
-### The <canvas> element
+### The ```<canvas>``` element
 ```
 <canvas id="tutorial" width="150" height="150"></canvas>
 ```
 At first sight a ```<canvas>``` looks like the ```<img>``` element, with the only clear difference being that it doesn't have the src and alt attributes. Indeed, the <canvas> element has only two attributes, width and height. These are both optional and can also be set using DOM properties. When no width and height attributes are specified, the canvas will initially be 300 pixels wide and 150 pixels high. The element can be sized arbitrarily by CSS, but during rendering the image is scaled to fit its layout size: if the CSS sizing doesn't respect the ratio of the initial canvas, it will appear distorted.
 
-Note: If your renderings seem distorted, try specifying your width and height attributes explicitly in the <canvas> attributes, and not using CSS.
+Note: If your renderings seem distorted, try specifying your width and height attributes explicitly in the``` <canvas>``` attributes, and not using CSS.
 
 The id attribute isn't specific to the <canvas> element but is one of the global HTML attributes which can be applied to any HTML element (like class for instance). It is always a good idea to supply an id because this makes it much easier to identify it in a script.
 
@@ -108,6 +109,7 @@ The rendering context
 The ```<canvas>``` element creates a fixed-size drawing surface that exposes one or more rendering contexts, which are used to create and manipulate the content shown. In this tutorial, we focus on the 2D rendering context. Other contexts may provide different types of rendering; for example, WebGL uses a 3D context based on OpenGL ES.
 
 The canvas is initially blank. To display something, a script first needs to access the rendering context and draw on it. The <canvas> element has a method called getContext(), used to obtain the rendering context and its drawing functions. getContext() takes one parameter, the type of context. For 2D graphics, such as those covered by this tutorial, you specify "2d" to get a CanvasRenderingContext2D.
+	
 ```
 var canvas = document.getElementById('tutorial');
 var ctx = canvas.getContext('2d');
@@ -115,6 +117,7 @@ var ctx = canvas.getContext('2d');
 The first line in the script retrieves the node in the DOM representing the ``` <canvas> ``` element by calling the document.getElementById() method. Once you have the element node, you can access the drawing context using its getContext() method.
 
 Checking for support
+
 The fallback content is displayed in browsers which do not support ```<canvas>```. Scripts can also check for support programmatically by testing for the presence of the getContext() method. Our code snippet from above becomes something like this:
 ```
 var canvas = document.getElementById('tutorial');
@@ -178,7 +181,7 @@ To begin, let's take a look at a simple example that draws two intersecting rect
         ctx.fillStyle = 'rgba(0, 0, 200, 0.5)';
         ctx.fillRect(30, 30, 50, 50);
       }
-    }
+    } 
   </script>
  </head>
  <body onload="draw();">

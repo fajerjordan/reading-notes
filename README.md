@@ -47,6 +47,8 @@ Read       | Link
 10 | [JS Debugging](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-10) 
 11 | [Assorted Topics](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-11)
 12 | [Chart.js, Canvas](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-12)
+13 | [Local Storage](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-13)
+
 
 
 

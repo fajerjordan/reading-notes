@@ -48,7 +48,7 @@ So what is HTML5 Storage? Simply put, it’s a way for web pages to store named 
 
 Which browsers? Well, the latest version of pretty much every browser supports HTML5 Storage… even Internet Explorer!
 
-HTML5 STORAGE SUPPORT
+### HTML5 STORAGE SUPPORT
 
 IE	FIREFOX	SAFARI	CHROME	OPERA	IPHONE	ANDROID
 8.0+	3.5+	4.0+	4.0+	10.5+	2.0+	2.0+

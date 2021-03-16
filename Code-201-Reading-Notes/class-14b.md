@@ -2,7 +2,7 @@
 
 ## What Google Learned From Its Quest to Build the Perfect Team
 
-![Google](https://lh3.googleusercontent.com/TAateRpOGZ7R8mKp6SYD7m19r4GNzV0OJSCyu-C8pSa4ewu4B3gI3DzoAcPWUsYlz784bynlrHMUGJSZAuNe-oU=w1614)
+![Google](![Google](https://lh3.googleusercontent.com/TAateRpOGZ7R8mKp6SYD7m19r4GNzV0OJSCyu-C8pSa4ewu4B3gI3DzoAcPWUsYlz784bynlrHMUGJSZAuNe-oU=w1614))
 
 Shared-interest is the lifeblood of teams, and only the most successful companies know how to foster it. But how?
 
@@ -25,6 +25,9 @@ Instead, the researchers found that there were five key characteristics of enhan
 4- Meaning: Everyone has a sense of purpose in their work (i.e., financial security, supporting family, helping the team succeed, etc.).
 
 5- Impact: Everyone sees that the result of their work actually contributes to the organization’s overall goals.
+
+![Google](https://lh3.googleusercontent.com/TAateRpOGZ7R8mKp6SYD7m19r4GNzV0OJSCyu-C8pSa4ewu4B3gI3DzoAcPWUsYlz784bynlrHMUGJSZAuNe-oU=w1614)
+
 
 
 

@@ -30,15 +30,15 @@ Elements may be distorted, or transformed, on both a two-dimensional plane or a 
 #### 2D Rotate
 The transform property accepts a handful of different values. The rotate value provides the ability to rotate an element from 0 to 360 degrees. Using a positive value will rotate an element clockwise, and using a negative value will rotate the element counterclockwise. The default point of rotation is the center of the element, 50% 50%, both horizontally and vertically. Later we will discuss how you can change this default point of rotation.
 
-```
 HTML
+
 ```
 <figure class="box-1">Box 1</figure>
 <figure class="box-2">Box 2</figure>
 ```
-
-```             
+           
 CSS
+
 ```
 .box-1 {
   transform: rotate(20deg);

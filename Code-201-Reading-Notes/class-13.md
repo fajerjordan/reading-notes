@@ -19,7 +19,7 @@ What we really want is:
 - on the client
 - that persists beyond a page refresh
 - and isn’t transmitted to the server
-- 
+
 Before HTML5, all attempts to achieve this were ultimately unsatisfactory in different ways.
 
 ❧

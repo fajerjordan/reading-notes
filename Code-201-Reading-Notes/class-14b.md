@@ -2,7 +2,7 @@
 
 ## What Google Learned From Its Quest to Build the Perfect Team
 
-![Google](![Google](https://lh3.googleusercontent.com/TAateRpOGZ7R8mKp6SYD7m19r4GNzV0OJSCyu-C8pSa4ewu4B3gI3DzoAcPWUsYlz784bynlrHMUGJSZAuNe-oU=w1614))
+![Google](https://lh3.googleusercontent.com/TAateRpOGZ7R8mKp6SYD7m19r4GNzV0OJSCyu-C8pSa4ewu4B3gI3DzoAcPWUsYlz784bynlrHMUGJSZAuNe-oU=w1614)
 
 Shared-interest is the lifeblood of teams, and only the most successful companies know how to foster it. But how?
 

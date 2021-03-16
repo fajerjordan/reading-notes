@@ -36,7 +36,8 @@ HTML
 <figure class="box-1">Box 1</figure>
 <figure class="box-2">Box 2</figure>
 ```
-              
+
+```             
 CSS
 ```
 .box-1 {

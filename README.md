@@ -48,7 +48,8 @@ Read       | Link
 11 | [Assorted Topics](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-11)
 12 | [Chart.js, Canvas](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-12)
 13 | [Local Storage](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-13)
-
+14a | [CSS Transforms, Transitions, and Animations](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-14a)
+14b | [What Google Learned About Teams](https://majida-hatamleh.github.io/reading-notes/Code-201-Reading-Notes/class-14b)
 
 
 

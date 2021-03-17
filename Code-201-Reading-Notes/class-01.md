@@ -1,6 +1,4 @@
-
-## HTML Layout Elements
-Read: 01 - Introductory HTML and JavaScript
+# Read: 01 - Introductory HTML and JavaScript
 All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix
 
 When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
@@ -36,12 +34,12 @@ Some elements will always appear to start on a new line in the browser window. T
 Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
 ```
 
-    <div>  This element allows you to group a set of elements together in one block-level box. For example, you might create a <div> element to contain all of the elements for the header of your site (the logo and the navigation), or you might create a <div> element to contain comments from visitors.
+    <div>  This element allows you to group a set of elements together in one block-level box. For example, you might create a ``` <div>```  element to contain all of the elements for the header of your site (the logo and the navigation), or you might create a <div> element to contain comments from visitors.
   
   
     <span> The span element acts like an inline equivalent of the <div> element. It is used to either: 1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text 2. Contain a number of inline elements The most common reason why people use <span> elements is so that they can control the appearance of the content of these elements using CSS.
   
-    <iframe> An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
+  ```   <iframe> ```  An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
 
     src The src attribute specifies the URL of the page to show in the frame.
 
@@ -49,11 +47,10 @@ Some elements will always appear to continue on the same line as their neighbour
 
     width The width attribute specifies the width of the iframe in pixels.
 
-```
     seamless In HTML5, a new attribute called seamless can be applied to an iframe where scrollbars are not desired. The seamless attribute (like some other new HTML5 attributes) does not need a value, but you will often see authors give it a value of seamless. Older browsers do not support the seamless attribute
 
 
-  ```   <meta> ``` The```  <meta>```  element lives inside the <head> element and contains information about that web page.
+  ```   <meta> ``` The```  <meta>```  element lives inside the ```  <head> ``` element and contains information about that web page.
 description keywords robots author pragma expires
 
 There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
@@ -71,21 +68,21 @@ HTML5 introduces a new set of elements that allow you to divide up the parts of 
 
 Headers & Footers header AND footer
 
-Navigation | The nav element is used to contain the major navigational blocks on the site such as the primary site navigation. <nav>
+Navigation | The nav element is used to contain the major navigational blocks on the site such as the primary site navigation. ``` <nav>``` 
 
-Articles | The article element acts as a container for any section of a page that could stand alone and potentially be syndicated. <article>
+Articles | The article element acts as a container for any section of a page that could stand alone and potentially be syndicated. ``` <article> ``` 
 
 Asides <aside>
 
-The <aside> element has two purposes, depending on whether it is inside an <article> element or not. When the aside element is used inside an article element, it should contain information that is related to the article but not essential to its overall meaning. For example, a pullquote or glossary might be considered as an aside to the article it relates to. When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page. For example, it might contain links to other sections of the site, a list of recent posts, a search box, or recent tweets by the author.
-  ```
+The ```  <aside>```  element has two purposes, depending on whether it is inside an ```  <article> ```  element or not. When the aside element is used inside an article element, it should contain information that is related to the article but not essential to its overall meaning. For example, a pullquote or glossary might be considered as an aside to the article it relates to. When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page. For example, it might contain links to other sections of the site, a list of recent posts, a search box, or recent tweets by the author.
+ 
 
-    <section> The <section> element groups related content together, and typically each section would have its own heading. For example, on a homepage there may be several section elements to contain different sections of the page, such as latest news, top products, and newsletter signup
+  ```   <section> ```  The ``` <section> ```  element groups related content together, and typically each section would have its own heading. For example, on a homepage there may be several section elements to contain different sections of the page, such as latest news, top products, and newsletter signup
   
   
-    <hgroup> The purpose of the hgroup element is to group together a set of one or more h1 through h6 elements so that they are treated as one single heading.
+ ```    <hgroup>```  The purpose of the hgroup element is to group together a set of one or more h1 through h6 elements so that they are treated as one single heading.
   
-    <figure> <figcaption> You already met the figure element in Chapter 5 when we looked at images. It can be used to contain any content that is referenced from the main flow of an article (not just images). 
+   ```  <figure> ```  ``` <figcaption> ```  You already met the figure element in Chapter 5 when we looked at images. It can be used to contain any content that is referenced from the main flow of an article (not just images). 
     ```
 HTML5 allows web page authors to place an element around a block level element that contains child elements. This allows you to turn an entire block into a link. This is not a new element in HTML5, but it was not seen as a correct usage of the a element in earlier versions of HTML.
 
@@ -205,4 +202,5 @@ You may see JavaScript in the HTML between opening script and closing script tag
 It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . j s extension. The HTML script element is used in HTML pages to tell the browser to load the JavaScript file (rather like the element can be used to load a CSS file). If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created.
 
 [Homepage](https://majida-hatamleh.github.io/reading-notes.html)
+
 

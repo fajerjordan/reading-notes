@@ -1,278 +1,208 @@
 
 ## HTML Layout Elements
-### HTML has several semantic elements that define the different parts of a web page:
+Read: 01 - Introductory HTML and JavaScript
+All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix
 
-  - <header> - Defines a header for a document or a section
-  - <nav> - Defines a set of navigation links
-  - <section> - Defines a section in a document
-  - <article> - Defines an independent, self-contained content
-  - <aside> - Defines content aside from the content (like a sidebar)
-  - <footer> - Defines a footer for a document or a section
-  - <details> - Defines additional details that the user can open and close on demand
-  - <summary> - Defines a heading for the <details> element
+When you visit a website, the web server hosting that site could be anywhere in the world. In order for you to find the location of the web server, your browser will first connect to a Domain Name System (DNS) server.
 
+Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
+
+Attributes provide additional information about the contents of an element. They appear on the opening tag of the element and are made up of two parts: a name and a value, separated by an equals sign.
+
+HTML5 allows you to use uppercase attribute names and omit the quotemarks, but this is not recommended.
+
+HTML pages are text documents.
+
+HTML uses tags (characters that sit inside angled brackets) to give the information they surround special meaning.
+Tags are often referred to as elements.
+Tags usually come in pairs. The opening tag denotes the start of a piece of content; the closing tag denotes the end.
+Opening tags can carry attributes, which tell us more about the content of that element.
+Attributes require a name and a value.
+To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
+Since the web was first created, there have been several different versions of HTML.
+
+HTML 4 Released 1997
+
+XHTML 1.0 Released 2000
+
+HTML5 Released 2000
+
+If you want to add a comment to your code that will not be visible in the user’s browser, you can add the text between these characters:
+
+Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page. For example, you might have some paragraphs of text that contain information that is more important than others and want to distinguish these elements, or you might want to differentiate between links that point to other pages on your own site and links that point to external sites.
+
+Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
+
+Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements.
+```
+
+    <div>  This element allows you to group a set of elements together in one block-level box. For example, you might create a <div> element to contain all of the elements for the header of your site (the logo and the navigation), or you might create a <div> element to contain comments from visitors.
   
-## What are Semantic Elements?
-### A semantic element clearly describes its meaning to both the browser and the developer.
-
-### Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
-
-### Examples of semantic elements: <form>, <table>, and <article> - Clearly defines its content.
-
-### Semantic Elements in HTML
-
-### Many web sites contain HTML code like: <div id="nav"> <div class="header"> <div id="footer"> to indicate navigation, header, and footer.
-
-### In HTML there are some semantic elements that can be used to define different parts of a web page:  
-  <article>
-  <aside>
-  <details>
-  <figcaption>
-  <figure>
-  <footer>
-  <header>
-  <main>
-  <mark>
-  <nav>
-  <section>
-  <summary>
-  <time>  
-
-## HTML Layout Techniques
-### There are four different techniques to create multicolumn layouts. Each technique has its pros and cons:
-
-  - CSS framework
-  - CSS float property
-  - CSS flexbox
-  - CSS grid
   
-## HTML Layout Techniques
-
-***There are four different techniques to create multicolumn layouts. Each technique has its pros and cons:***
-
-
-- CSS framework
-- CSS float property
-- CSS flexbox
-- CSS grid
-
-## CSS Frameworks
-If you want to create your layout fast, you can use a CSS framework, like W3.CSS or Bootstrap:
-
-## CSS Float Layout
-It is common to do entire web layouts using the CSS float property. Float is easy to learn - you just need to remember how the float and clear properties work. Disadvantages: Floating elements are tied to the document flow, which may harm the flexibility. Learn more about float in our CSS Float and Clear chapter.
-
-## CSS Flexbox Layout
-Use of flexbox ensures that elements behave predictably when the page layout must accommodate different screen sizes and different display devices.
-
-## CSS Grid Layout
-The CSS Grid Layout Module offers a grid-based layout system, with rows and columns, making it easier to design web pages without having to use floats and positioning.
-
-## What CSS does
-### CSS Associates Style rules with HTML elements
-
-## How CSS works
-### CSS works by associating rules with HTML elements. These rules govern
-how the content of specified elements should be displayed. A CSS rule
-contains two parts: a selector and a declaration.
-
-## Rules, properties, and values
-### This rule indicates that all <p> elements should be shown in the Arial typeface.
-
-### Selectors indicate which element the rule applies to. The same rule can apply to more than one element if you separate the element names
-with commas.
-
-### Declarations indicate how the elements referred to in the selector should be styled. Declarations are split into two parts (a property and a value), and are separated by a colon.
-
-**Markdown** is a way to style text on the web. You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
-
-_And here's an overview of Markdown syntax that you can use anywhere on GitHub.com or in your own text files:_
-
-1. To create a heading, add one to six # symbols before your heading text. The number of # you use will determine the size of the heading:
-  # This is an h1 tag
-  ## This is an h2 tag
-  ###### This is an h6 tag
-
-2. You can indicate emphasis with bold, italic, or strikethrough text:
-  * Bold , by using	** ** or __ __	, ex: **This is bold text**	
-  * Italic, by using	* * or _ _	, ex: 	*This text is italicized*
-  * Strikethrough, by using	~~ ~~	, ex: 	~~This was mistaken text~~	
-  * Bold and nested italic, by using	** ** and _ _	, ex:	**This text is _extremely_ important**
-  * All bold and italic , by using	*** ***	, ex:	***All this text is important***	
+    <span> The span element acts like an inline equivalent of the <div> element. It is used to either: 1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text 2. Contain a number of inline elements The most common reason why people use <span> elements is so that they can control the appearance of the content of these elements using CSS.
   
-3. You can quote text with a >.
-  In the words of Abraham Lincoln:
-  > Pardon my French
+    <iframe> An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
+
+    src The src attribute specifies the URL of the page to show in the frame.
+
+    height The height attribute specifies the height of the iframe in pixels.
+
+    width The width attribute specifies the width of the iframe in pixels.
+
+```
+    seamless In HTML5, a new attribute called seamless can be applied to an iframe where scrollbars are not desired. The seamless attribute (like some other new HTML5 attributes) does not need a value, but you will often see authors give it a value of seamless. Older browsers do not support the seamless attribute
+
+
+  ```   <meta> ``` The```  <meta>```  element lives inside the <head> element and contains information about that web page.
+description keywords robots author pragma expires
+
+There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
+
+DOCTYPES tell browsers which version of HTML you are using.
+You can add comments to your code between the comments markers.
+The id and class attributes allow you to identify particular elements.
+The div and elements allow you to group block-level and inline elements together.
+iframes cut windows into your web pages through which other pages can be displayed.
+The meta tag allows you to supply all kinds of information about your web page.
+Escape characters are used to include special characters in your pages such as <, >, and ©.
+For a long time, web page authors used div elements to group together related elements on the page (such as the elements that form a header, an article, footer or sidebar). Authors used class or id attributes to indicate the role of the div element in the structure of the page.
+
+HTML5 introduces a new set of elements that allow you to divide up the parts of a page. The names of these elements indicate the kind of content you will find in them. They are still subject to change, but that has not stopped many web page authors using them already.
+
+Headers & Footers header AND footer
+
+Navigation | The nav element is used to contain the major navigational blocks on the site such as the primary site navigation. <nav>
+
+Articles | The article element acts as a container for any section of a page that could stand alone and potentially be syndicated. <article>
+
+Asides <aside>
+
+The <aside> element has two purposes, depending on whether it is inside an <article> element or not. When the aside element is used inside an article element, it should contain information that is related to the article but not essential to its overall meaning. For example, a pullquote or glossary might be considered as an aside to the article it relates to. When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page. For example, it might contain links to other sections of the site, a list of recent posts, a search box, or recent tweets by the author.
+  ```
+
+    <section> The <section> element groups related content together, and typically each section would have its own heading. For example, on a homepage there may be several section elements to contain different sections of the page, such as latest news, top products, and newsletter signup
   
-4. You can call out code or a command within a sentence with single backticks. The text within the backticks will not be formatted.
-  Use `git status` to list all new or modified files that haven't yet been committed.
   
-5. To format code or text into its own distinct block, use triple backticks.
-    Some basic Git commands are:
+    <hgroup> The purpose of the hgroup element is to group together a set of one or more h1 through h6 elements so that they are treated as one single heading.
+  
+    <figure> <figcaption> You already met the figure element in Chapter 5 when we looked at images. It can be used to contain any content that is referenced from the main flow of an article (not just images). 
     ```
-    git status
-    git add
-    git commit
-    ```
-6. You can create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( ). You can also use the keyboard shortcut command + k to create a link.
-  This site was built using [GitHub Pages](https://pages.github.com/).
-  
-7. You can make an unordered list by preceding one or more lines of text with - or *.
-  - George Washington
-  - John Adams
-  - Thomas Jefferson
+HTML5 allows web page authors to place an element around a block level element that contains child elements. This allows you to turn an entire block into a link. This is not a new element in HTML5, but it was not seen as a correct usage of the a element in earlier versions of HTML.
 
+The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.
 
-8. To order your list, precede each line with a number.
+The new elements provide clearer code (compared with using multiple div elements).
+Older browsers that do not understand HTML5 elements need to be told which elements are block-level elements.
+To make HTML5 elements work in Internet Explorer 8 (and older versions of IE), extra JavaScript is needed, which is available free from Google.
+Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is
 
-  1. James Madison
-  2. John Quincy Adams
-  3. James Monroe
+Target Audience: individuals
 
-  
-9. You can create a nested list by indenting one or more list items below another item.
-  1. First list item
-   - First nested list item
-     - Second nested list item
-  
-10. To create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x].
-  - [x] Finish my changes
-  - [ ] Push my commits to GitHub
-  - [ ] Open a pull request 
+What is the age range of your target audience?
+Will your site appeal to more women or men? What is the mix?
+Which country do your visitors live in?
+Do they live in urban or rural areas?
+What is the average income of visitors?
+What level of education do they have?
+What is their marital or family status?
+What is their occupation?
+How many hours do they work per week?
+How often do they use the web?
+What kind of device do they use to access the web? Target Audience: Companies
+What is the size of the company or relevant department?
+What is the position of people in the company who visit your site?
+Will visitors be using the site for themselves or for someone else?
+How large is the budget they control?
+Invent some fictional visitors from your typical target audience. They will become your friends. They can influence design decisions from color palettes to level of detail in descriptions.
 
-11. You can mention a person or team on GitHub by typing @ plus their username or team name. 
-  @github/support What do you think about these updates?
-  
-12. You can create a new paragraph by leaving a blank line between lines of text.
+Now that you know who your visitors are, you need to consider why they are coming. While some people will simply chance across your website, most will visit for a specific reason.
 
-13. You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
- 
- Let's rename \*our-new-project\* to \*our-old-project\*.
-  
-14. You can add emoji to your writing by typing :EMOJICODE:.
-  @octocat :+1: This PR looks great - it's ready to merge! 
-  
-  
-  # JavaScript layers
+It is unlikely that you will be able to list every reason why someone visits your site but you are looking for key tasks and motivations. This information can help guide your site designs.
 
-## Web developers usually talk about three languages that are used to create web pages: HTML, CSS, and JavaScript.
-Where possible, aim to keep the three languages in separate files, with the HTML page linking to CSS and JavaScript files.
-Each language forms a separate layer with a different purpose. Each layer, from left to right. builds on the previous one.
-HTML layer. This is where the content of the page lives. The HTML gives the page structure and adds semantics.
+You know who is coming to your site and why they are coming, so now you need to work out what information they need in order to achieve their goals quickly and effectively.
 
-#CSS layer
-The CSS enhances the HTML page with rules that state how the HTML content is presented (backgrounds, borders, box dimensions, colors, fonts, etc.).
+Some sites benefit from being updated more frequently than others. Some information (such as news) may be constantly changing, while other content remains relatively static.
 
-#Javascript layer
-## This is where we can change how the page behaves, adding interact ivity. We will aim to keep as much of our JavaScript as possible in separate files.
+Now that you know what needs to appear on your site, you can start to organize the information into sections or pages.
 
-## Keeping it separate means that the page still works if the user cannot load or run the JavaScript. You can also reuse the code on severa l pages (making the site faster to load and easier to maintain).
+A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
 
-# What is JavaScript?
-JavaScript was initially created to “make web pages alive”.
+The primary aim of any kind of visual design is to communicate. Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.
 
-The programs in this language are called scripts. They can be written right in a web page’s HTML and run automatically as the page loads.
+Most web users do not read entire pages. Rather, they skim to find information. You can use contrast to create a visual hierarchy that gets across your key message and helps users find what they are looking for
 
-Scripts are provided and executed as plain text. They don’t need special preparation or compilation to run.
+Visual hierarchy refers to the order in which your eyes perceive what they see. It is created by adding visual contrast between the items being displayed. Items with higher contrast are recognized and processed first.
 
-In this aspect, JavaScript is very different from another language called Java.
+Images Images create a high visual contrast and often attract the eye first. They can be used to draw attention to a specific message within the page. In some cases, the right image can succinctly reveal more than an entire page of text
 
-## Why is it called JavaScript?
-When JavaScript was created, it initially had another name: “LiveScript”. But Java was very popular at that time, so it was decided that positioning a new language as a “younger brother” of Java would help.
+When making sense of a design, we tend to organize visual elements into groups. Grouping related pieces of information together can make a design easier to comprehend. Here are some ways this can be achieved.
 
-But as it evolved, JavaScript became a fully independent language with its own specification called ECMAScript, and now it has no relation to Java at all.
+We naturally observe similarities in design, and things that are similar are perceived to be more related than things that are dissimilar. Repetition of similar color, size, orientation, texture, font, or shape, suggests that matching elements have similar importance or meaning
 
-Today, JavaScript can execute not only in the browser, but also on the server, or actually on any device that has a special program called the JavaScript engine.
+Site navigation not only helps people find where they want to go, but also helps them understand what your site is about and how it is organized. Good navigation tends to follow these principles…
 
-The browser has an embedded engine sometimes called a “JavaScript virtual machine”.
+Concise
+Clear
+Selective
+Context
+Interactive
+Consistent
+It’s important to understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return.
 
-Different engines have different “codenames”. For example:
+Site maps allow you to plan the structure of a site.
+Wireframes allow you to organize the information that will need to go on each page.
+Design is about communication. Visual hierarchy helps visitors understand what you are trying to tell them.
+You can differentiate between pieces of information using size, color, and style.
+You can use grouping and similarity to help simplify the information you present.
+A script is a series of instructions that a computer can follow to achieve a goal. You could compare scripts to any of the following:
 
-V8 – in Chrome and Opera.
-SpiderMonkey – in Firefox.
-…There are other codenames like “Chakra” for IE, “ChakraCore” for Microsoft Edge, “Nitro” and “SquirrelFish” for Safari, etc.
-The terms above are good to remember because they are used in developer articles on the internet. We’ll use them too. For instance, if “a feature X is supported by V8”, then it probably works in Chrome and Opera.
+To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it.
 
-## How do engines work?
-Engines are complicated. But the basics are easy.
+Start with the big picture of what you want to achieve, and break that down into smaller steps.
 
-The engine (embedded if it’s a browser) reads (“parses”) the script.
-Then it converts (“compiles”) the script to the machine language.
-And then the machine code runs, pretty fast.
-The engine applies optimizations at each step of the process. It even watches the compiled script as it runs, analyzes the data that flows through it, and further optimizes the machine code based on that knowledge.
+1: DEFINE THE GOAL 2: DESIGN THE SCRIPT 3: CODE EACH STEP
 
-What can in-browser JavaScript do?
-Modern JavaScript is a “safe” programming language. It does not provide low-level access to memory or CPU, because it was initially created for browsers which do not require it.
+Every step for every task shown in a flowchart needs to be written in a language the computer can understand and follow.
 
-JavaScript’s capabilities greatly depend on the environment it’s running in. For instance, Node.js supports functions that allow JavaScript to read/write arbitrary files, perform network requests, etc.
+You need to learn to “think” like a computer because they solve tasks in different ways than you or I might approach them.
 
-In-browser JavaScript can do everything related to webpage manipulation, interaction with the user, and the webserver.
+Consider how you might approach a different type of script. This example calculates the cost of a name plaque. Customers are charged by the letter.
 
-For instance, in-browser JavaScript is able to:
+Often scripts will need to perform different tasks in different situations. You can use flowcharts to work out how the tasks fit together. The flowcharts show the paths between each step.
 
-Add new HTML to the page, change the existing content, modify styles.
-React to user actions, run on mouse clicks, pointer movements, key presses.
-Send requests over the network to remote servers, download and upload files (so-called AJAX and COMET technologies).
-Get and set cookies, ask questions to the visitor, show messages.
-Remember the data on the client-side (“local storage”).
-What CAN’T in-browser JavaScript do?
-JavaScript’s abilities in the browser are limited for the sake of the user’s safety. The aim is to prevent an evil webpage from accessing private information or harming the user’s data.
+A script is a series of instructions that the computer can follow in order to achieve a goal.
+Each time the script runs, it might only use a subset of all the instructions.
+Computers approach tasks in a different way than humans, so your instructions must let the computer solve the task prggrammatically.
+To approach writing a script, break down your goal into a series of tasks and then work out each step needed to complete that task (a flowchart can help).
+Here is a model of a hotel, along with some model trees, model people, and model cars. To a human, it is clear what kind of real-world object each one represents.
 
-Examples of such restrictions include:
+If you could not see the picture of the hotel and cars, the data in the information boxes alone would still tell you a lot about this scene.
 
-JavaScript on a webpage may not read/write arbitrary files on the hard disk, copy them or execute programs. It has no direct access to OS functions.
+In the real world, people interact with objects. These interactions can change the values of the properties in these objects.
 
-Modern browsers allow it to work with files, but the access is limited and only provided if the user does certain actions, like “dropping” a file into a browser window or selecting it via an <input> tag.
+Methods represent things people need to do with objects. They can retrieve or update the values of an object’s properties.
 
-There are ways to interact with camera/microphone and other devices, but they require a user’s explicit permission. So a JavaScript-enabled page may not sneakily enable a web-camera, observe the surroundings and send the information to the NSA.
+Computers use data to create models of things in the real world. The events, methods, and properties of an object all relate to each other: Events can trigger methods, and methods can retrieve or update an object’s properties.
 
-Different tabs/windows generally do not know about each other. Sometimes they do, for example when one window uses JavaScript to open the other one. But even in this case, JavaScript from one page may not access the other if they come from different sites (from a different domain, protocol or port).
+You have seen how data can be used to create a model of a hotel or a car. Web browsers create similar models of the web page they are showing and of the browser window that the page is being shown in.
 
-This is called the “Same Origin Policy”. To work around that, both pages must agree for data exchange and contain a special JavaScript code that handles it. We’ll cover that in the tutorial.
+Using the document object, you can access and change what content users see on the page and respond to how they interact with it.
 
-This limitation is, again, for the user’s safety. A page from http://anysite.com which a user has opened must not be able to access another browser tab with the URL http://gmail.com and steal information from there.
+In order to understand how you can change the content of an HTML page using JavaScript, you need to know how a browser interprets the HTML code and applies styling to it
 
-JavaScript can easily communicate over the net to the server where the current page came from. But its ability to receive data from other sites/domains is crippled. Though possible, it requires explicit agreement (expressed in HTTP headers) from the remote side. Once again, that’s a safety limitation.
+Before diving into the JavaScript language, you need to know how it will fit together with the HTML and CSS in your web pages.
 
+These three layers form the basis of a popular approach to building web pages called progressive enhancement.
 
-Such limits do not exist if JavaScript is used outside of the browser, for example on a server. Modern browsers also allow plugin/extensions which may ask for extended permissions.
+JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script. This example adds a greeting into an HTML page. The greeting changes depending on the time of day.
 
-What makes JavaScript unique?
-There are at least three great things about JavaScript:
+When you want to use JavaScript with a web page, you use the HTML script element to tell the browser it is coming across a script. Its s re attribute tells people where the JavaScript file is stored.
 
-Full integration with HTML/CSS.
-Simple things are done simply.
-Support by all major browsers and enabled by default.
-JavaScript is the only browser technology that combines these three things.
+If you look at the source code for the example you just created, you will see that the HTML is still exactly the same.
 
-That’s what makes JavaScript unique. That’s why it’s the most widespread tool for creating browser interfaces.
+You may see JavaScript in the HTML between opening script and closing script tags (but it is better to put scripts in their own files).
 
-## That said, JavaScript also allows to create servers, mobile applications, etc.
+It is best to keep JavaScript code in its own JavaScript file. JavaScript files are text files (like HTML pages and CSS style sheets), but they have the . j s extension. The HTML script element is used in HTML pages to tell the browser to load the JavaScript file (rather like the element can be used to load a CSS file). If you view the source code of the page in the browser, the JavaScript will not have changed the HTML, because the script works with the model of the web page that the browser has created.
 
-## Languages “over” JavaScript
-The syntax of JavaScript does not suit everyone’s needs. Different people want different features.
-
-## That’s to be expected, because projects and requirements are different for everyone.
-
-## So recently a plethora of new languages appeared, which are transpiled (converted) to JavaScript before they run in the browser.
-
-## Modern tools make the transpilation very fast and transparent, actually allowing developers to code in another language and auto-converting it “under the hood”.
-
-## Examples of such languages:
-
-## CoffeeScript is a “syntactic sugar” for JavaScript. It introduces shorter syntax, allowing us to write clearer and more precise code. Usually, Ruby devs like it.
-## TypeScript is concentrated on adding “strict data typing” to simplify the development and support of complex systems. It is developed by Microsoft.
-Flow also adds data typing, but in a different way. Developed by Facebook.
-Dart is a standalone language that has its own engine that runs in non-browser environments (like mobile apps), but also can be transpiled to JavaScript. Developed by Google.
-Brython is a Python transpiler to JavaScript that enables the writing of applications in pure Python without JavaScript.
-Kotlin is a modern, concise and safe programming language that can target the browser or Node.
-There are more. Of course, even if we use one of transpiled languages, we should also know JavaScript to really understand what we’re doing.
-
-## Summary
-JavaScript was initially created as a browser-only language, but it is now used in many other environments as well.
-Today, JavaScript has a unique position as the most widely-adopted browser language with full integration in HTML/CSS.
-There are many languages that get “transpiled” to JavaScript and provide certain features. It is recommended to take a look at them, at least briefly, after mastering JavaScript.
-
-
-#################################################################################################################################################################################################################### [Homepage](https://majida-hatamleh.github.io/reading-notes.html)
+[Homepage](https://majida-hatamleh.github.io/reading-notes.html)
 
